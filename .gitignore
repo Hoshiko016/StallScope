@@ -1,0 +1,8 @@
+﻿# Runtime output - do not commit logs from your own machine
+logs/*
+!logs/.gitkeep
+
+# Windows junk
+Thumbs.db
+desktop.ini
+*.tmp
